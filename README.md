@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/alvaromachado-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=640&lines=Se+%C3%A9+repetitivo%2C+d%C3%A1+pra+automatizar.;Programador+II+%40+Grupo+GPS;RPA+%E2%80%A2+Selenium+%E2%80%A2+OpenCV+%E2%80%A2+OCR;Back-end+Python+%2B+Web+Full+Stack;Dispon%C3%ADvel+para+freelas+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=640&lines=Se+%C3%A9+repetitivo%2C+d%C3%A1+pra+automatizar.;Programador+II+%40+Grupo+GPS;RPA+%E2%80%A2+APIs+%E2%80%A2+Selenium+%E2%80%A2+OCR;Back-end+Python+%2B+Web+Full+Stack;Dispon%C3%ADvel+para+freelas+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -83,15 +83,10 @@ class Alvaro:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=alvaromachado-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=BD00FF&text_color=C9D1D9&ring_color=6A00F4&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromachado-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8&locale=pt-br" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alvaromachado-dev&hide_border=true&background=0D1117&ring=6A00F4&fire=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&locale=pt_BR" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvaromachado-dev&bg_color=0D1117&color=C9D1D9&line=00F0FF&point=BD00FF&area=true&area_color=6A00F4&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" />
 </p>
 
 ---
@@ -113,7 +108,7 @@ class Alvaro:
 Tem um processo manual que te toma horas? Quer um site ou sistema sob medida? Me chama:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/álvaro-machado-041b30180"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%C3%A1lvaro-machado-041b30180"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alvaro.machado.ferreira.am@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" /></a>
   <a href="https://github.com/alvaromachado-dev"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
