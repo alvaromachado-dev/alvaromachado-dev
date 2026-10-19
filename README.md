@@ -91,7 +91,7 @@ class Alvaro:
 
 ---
 
-## 🐍 Comendo minhas contribuições
+## 🐍 Snake nos commits
 
 <p align="center">
   <picture>
